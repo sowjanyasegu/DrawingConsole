@@ -1,5 +1,5 @@
 
-Problem Statement
+```Problem Statement
 
 You're given the task of writing a simple console version of a drawing program. 
 At this time, the functionality of the program is quite limited but this might change in the future. 
@@ -66,4 +66,4 @@ enter command: B 10 3 o
 |     xoooooooooooooo|
 ----------------------
 
-enter command: Q
+enter command: Q```
